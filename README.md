@@ -1,6 +1,5 @@
-### Hi there 👋
+### 
 ![photo_2022-06-24_19-21-12](https://user-images.githubusercontent.com/43111400/175550567-93aaaede-ac65-4642-8177-f171de140565.jpg)
-<h1 align="center">Hi 👋, I'm Sadiq</h1>
 <h3 align="center">A passionate learner, noob developer and worked as operation executive in Infosys</h3>
 
 - 🔭 I’m currently working in **Infosys**
