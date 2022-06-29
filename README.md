@@ -2,11 +2,11 @@
 ![photo_2022-06-24_19-21-12](https://user-images.githubusercontent.com/43111400/175550567-93aaaede-ac65-4642-8177-f171de140565.jpg)
 <h3 align="center">A passionate learner, noob developer and worked as operation executive in Infosys</h3>
 
-- 🔭 I’m currently working in **Infosys**
+- 🔭 I used to work in **Infosys**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Java**
 
-- 🤝 I’m looking for help with **Python Developing**
+- 🤝 I’m looking for help with **Java Concept**
 
 - 📫 How to reach me **sadiqsonalkar21@gmail.com**
 
