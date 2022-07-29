@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Java Web Concept**
 
-- 📫 How to reach me **sadiqsonalkar21@gmail.com** & **linkedin.com/in/sadiqsonalkar**
+- 📫 How to reach me **sadiqsonalkar21@gmail.com**
 
 - 📄 Know about my experiences download my resume: https://drive.google.com/file/d/1OWBi_BC0FoUcCRLG96HrucHrJrOVpLeW/view?usp=sharing
 
