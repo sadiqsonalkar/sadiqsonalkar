@@ -1,16 +1,18 @@
 ### 
 ![photo_2022-06-24_19-21-12](https://user-images.githubusercontent.com/43111400/175550567-93aaaede-ac65-4642-8177-f171de140565.jpg)
-<h3 align="center">A passionate learner, noob developer and worked as operation executive in Infosys</h3>
+<h3 align="center">A passionate learner, noob developer and a SDE trainee.</h3>
 
-- 🔭 I used to work in **Infosys**
+- 💻 I am currently working as a **SDE**
+
+- 🔭 I previously worked in **Infosys**
 
 - 🌱 I’m currently learning **Java**
 
-- 🤝 I’m looking for help with **Java Concept**
+- 🤝 I’m looking for help with **Java Web Concept**
 
-- 📫 How to reach me **sadiqsonalkar21@gmail.com**
+- 📫 How to reach me **sadiqsonalkar21@gmail.com** & **linkedin.com/in/sadiqsonalkar**
 
-- 📄 Know about my experiences download my resume: [https://drive.google.com/file/d/1BpgO1_5ujJDxrei4pX-GhnVCMXVAMLgi/view?usp=sharing](https://drive.google.com/file/d/1BpgO1_5ujJDxrei4pX-GhnVCMXVAMLgi/view?usp=sharing)
+- 📄 Know about my experiences download my resume: https://drive.google.com/file/d/1OWBi_BC0FoUcCRLG96HrucHrJrOVpLeW/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,7 +20,7 @@
 <a href="https://linkedin.com/in/sadiqsonalkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadiqsonalkar" height="30" width="40" /></a>
 <a href="https://fb.com/صادق سونالکر" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="صادق سونالکر" height="30" width="40" /></a>
 <a href="https://instagram.com/_.sadiqs._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.sadiqs._" height="30" width="40" /></a>
-<a href="https://www.behance.net/sadiqsonalkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sadiqsonalkar" height="30" width="40" /></a>
+<a href="https://unsplash.com/@sadiqs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/unsplash.svg" alt="sadiqsonalkar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
