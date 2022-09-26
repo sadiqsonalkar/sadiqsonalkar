@@ -1,6 +1,6 @@
 ### 
 ![photo_2022-06-24_19-21-12](https://user-images.githubusercontent.com/43111400/175550567-93aaaede-ac65-4642-8177-f171de140565.jpg)
-<h3 align="center">A passionate learner, noob developer and a SDE trainee.</h3>
+<h3 align="center">A passionate learner, developer and a SDE trainee.</h3>
 
 - 💻 I am currently working as a **SDE**
 
