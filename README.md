@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **sadiqsonalkar21@gmail.com**
 
-- 📄 Know about my experiences download my resume: [https://drive.google.com/file/d/1OWBi_BC0FoUcCRLG96HrucHrJrOVpLeW/view?usp=sharing](https://drive.google.com/drive/folders/12CTfeAvDeOw3g4T5YCaahZk9Jz9McM_-)
+- 📄 Know about my experiences download my resume: https://drive.google.com/file/d/1FOd6m1622FKlmzb8l4bWOH0RYfQGvJWv/view?usp=share_link
 
 <h3 align="left">Find me around the web using:</h3>
 <p align="left">
