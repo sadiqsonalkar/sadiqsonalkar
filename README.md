@@ -6,9 +6,9 @@
 
 - 🔭 I previously worked in **Infosys**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Cyber Security**
 
-- 🤝 I’m looking for help with **Java Web Concept**
+- 🤝 I’m looking for help with **Cyber Security Concept**
 
 - 📫 How to reach me **sadiqsonalkar21@gmail.com**
 
