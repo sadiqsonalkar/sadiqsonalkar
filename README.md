@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Cyber Security Concept**
 
-- 📫 How to reach me **[sadiqsonalkar21@gmail.com](https://sadiqsonalkar.github.io/)**
+- 📫 How to reach me **https://sadiqsonalkar.github.io/**
 
 - 📄 Know about my experiences download my resume: https://drive.google.com/file/d/1ajDFOMPeDhXFjygsMrgZ7p4a7UHruomb/view?usp=sharing
 
