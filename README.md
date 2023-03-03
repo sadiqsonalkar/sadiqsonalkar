@@ -19,7 +19,7 @@
 <a href="https://twitter.com/sadiqsonalkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sadiqsonalkar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sadiqsonalkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadiqsonalkar" height="30" width="40" /></a>
 <a href="https://fb.com/صادق سونالکر" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="صادق سونالکر" height="30" width="40" /></a>
-<a href="https://instagram.com/damn.sadiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.sadiqs._" height="30" width="40" /></a>
+<a href="https://instagram.com/damn.sadiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="damn.sadiq" height="30" width="40" /></a>
 <a href="https://unsplash.com/@sadiqs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sadiqsonalkar" height="30" width="40" /></a>
 </p>
 
