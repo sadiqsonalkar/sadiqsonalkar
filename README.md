@@ -4,7 +4,7 @@
 
 - 💻 I am currently pursuing my **Master's in Computer Science**
 
-- 🔭 I previously worked in **Infosys**
+- 🔭 I previously worked in **Infosys Ltd. as Operation Executive**
 
 - 🌱 I’m currently learning **Cyber Security**
 
