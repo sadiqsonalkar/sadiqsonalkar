@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **https://sadiqsonalkar.github.io/**
 
-- 📄 Know about my experiences download my resume: https://drive.google.com/file/d/1ajDFOMPeDhXFjygsMrgZ7p4a7UHruomb/view?usp=sharing
+- 📄 Know about my experiences download my resume: [https://drive.google.com/file/d/1ajDFOMPeDhXFjygsMrgZ7p4a7UHruomb/view?usp=sharing](https://drive.google.com/file/d/1lAQFY8VDTU6OmgfT1QtMBdvDE7TW9wvW/view?usp=sharing)
 
 <h3 align="left">Find me around the web using:</h3>
 <p align="left">
